@@ -1,0 +1,5 @@
+print("Please fill this")
+name = input("what is your name?\n")
+age = input("how old are you?\n")
+city = input("which city you live in?\n")
+print("Happy birthday" + "" + name + "" + "on your" + " "+ age +""+ "birthday")
